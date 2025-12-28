@@ -39,9 +39,8 @@ rows = engine.run_report(spec)
 ## Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/htnql.git
-cd htnql
+# unzip the library
+-
 
 # Create virtual environment
 python -m venv venv
